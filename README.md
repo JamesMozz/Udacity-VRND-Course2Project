@@ -3,6 +3,8 @@
 For this project we were asked to create an apartment using a scene which included an empty room and an assets folder 
 containing prefab furniture. We also had to animate a globe to start/stop spin on click. 
 
+![Picture of modern apartment scene] ( https://docs.google.com/uc?id=0B6uYPHCWTV0xYlgxX09NU3R4VUE)
+
 # Project Criteria
 
 ## Models
