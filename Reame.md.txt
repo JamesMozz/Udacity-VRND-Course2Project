@@ -1,9 +1,0 @@
-James Moscariello
-Project took me about 15-20 hours, though I messed around with many of the objects looking for hacks
-to improve visual appearance without slowing down the FPS. 
-I liked tying all of the skills together in one new project. Building the room from scratch was a good 
-challenge.
-One thing I did not like was how much I had to go to the forum to find ways around issues. For example,
-my experience would not work if I had the teleport script enabled. I also had an issue where when 
-I hit run after enabling the trigger script, my camera would become disabled. As someone new to VR, Unity, 
-and coding, this lesson was really challenging. 
