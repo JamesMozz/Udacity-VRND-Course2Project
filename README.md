@@ -1,4 +1,5 @@
-# VR Developer Nanodegree Course 2 Project: Modern Apartment
+# VR Developer Nanodegree Course 2 Project: 
+Modern Apartment
 
 For this project we were asked to create an apartment using a scene which included an empty room and an assets folder 
 containing prefab furniture. We also had to animate a globe to start/stop spin on click. 
